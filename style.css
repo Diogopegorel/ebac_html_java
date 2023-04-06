@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0;
+}
+h1 {
+    color: #0EA293;
+    background-color: #F5F3C1;
+    padding: 5%;
+    margin: 0;
+}
+form {
+    color: #F5F3C1;
+    background-color: #0EA293;
+    padding: 5%;
+    font-size: 1.2rem;
+}
+.info {
+    padding: 2%;
+}
+.btn {
+    margin-top: 5%;
+}
+#msg {
+    font-size: 2rem;
+    padding: 2%;
+    margin: 5%;
+    color: #F5F3C1;
+    background-color: #2F0F5D;
+}
+footer {
+    background-color: #F5F3C1;
+    color: #0EA293;
+    padding: 2%;
+    font-size: 0.8rem;
+}
